@@ -26,3 +26,5 @@
 <a href="https://www.linkedin.com/in/jhalder-sub8788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhalder-sub8788" height="30" width="40" /></a>
 <a href="https://www.facebook.com/joy.halder.819943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joy.halder.819943" height="30" width="40" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer" width="100%"/>
